@@ -50,7 +50,7 @@ border-color: lightskyblue transparent transparent transparent;}
 .tm-content-box .gallery-container p::first-letter{font-weight: bold;font-size: 20px;}
 .blocks .tm-content-box .gallery-container  li:nth-child(2n-1){background-color: skyblue; color: white;padding: 10px;}
 .blocks .tm-content-box .gallery-container  li:nth-child(2n){background-color: white; padding: 10px;}
-.tm-section-description p{empty-cells: 25px; line-height: 30px;}
+.tm-section-description p{empty-cells:show; line-height: 30px;}
 #contact h2{text-align: left    }
 form input:focus{background-color: skyblue}
 .form-group .form-control {border-color: lightskyblue;}
